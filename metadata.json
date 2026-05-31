@@ -1,0 +1,6 @@
+{
+  "name": "VaultX Password Manager",
+  "description": "Locally encrypted enterprise-grade password manager featuring AES-256 local storage, biometrics, auto-timers, recycler recover, and cybersecurity terminal scans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
